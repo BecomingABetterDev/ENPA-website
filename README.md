@@ -149,10 +149,5 @@ To preserve optimal page speed metrics and data security when hosting this platf
 
 ---
 
-## 👥 Engineering Attribution
-
-The codebase, custom routing logic, cryptographic validation elements, and design systems were built and maintained entirely by **BecomingABetterDev**. All structural optimizations were implemented to provide the charity network with a fast, modern digital footprint.
-
-```
 
 ```
